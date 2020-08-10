@@ -1,0 +1,4 @@
+﻿  lab8_msvc.cpp
+c:\users\user\desktop\lab8_msvc\lab8_msvc\lab8_msvc.cpp(12): warning C4101: a1: неиспользованная локальная переменная
+c:\users\user\desktop\lab8_msvc\lab8_msvc\lab8_msvc.cpp(12): warning C4101: a0: неиспользованная локальная переменная
+  lab8_msvc.vcxproj -> C:\Users\User\Desktop\lab8_msvc\Debug\lab8_msvc.exe
